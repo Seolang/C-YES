@@ -18,7 +18,7 @@ class QuizWebSocket {
 
     constructor(quizId: number) {
         this.socket = new SockJS(
-            `${process.env.REACT_APP_SPRING_SOCKET_URI}/ws/quiz`
+            `${process.env.REACT_APP_SPRING_SOCKET_URI}/api/ws/quiz`
         );
         this.client = Stomp.over(this.socket);
         this.client.heartbeat.incoming = 0;
