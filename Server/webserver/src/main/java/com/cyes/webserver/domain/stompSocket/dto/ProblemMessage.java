@@ -14,10 +14,6 @@ public class ProblemMessage extends SessionMessage{
     String[] selections;
     ProblemType problemType;
 
-    public enum QuestionType {
-        SINGLE, FOUR, OX
-    }
-
 
     @Builder
     public ProblemMessage(Long quizId, MessageType type, String question, Integer order, String answerLength, String[] selections, ProblemType problemType) {
