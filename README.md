@@ -267,7 +267,7 @@ socket-server
 | 우승빈            | 배수빈 | 우수인   | 유혜빈  | 유태영  | 조준희  |
 | ----------------- | -------- | -------- | ------- | ------- | ------- |
 | <img src="https://github.com/Seolang/C-Yes_CS_practice_platform/assets/26866109/15db6494-7768-487f-a5fc-82e5f4d53427" width="130" height="180">|<img src="https://github.com/Seolang/C-Yes_CS_practice_platform/assets/26866109/2433a282-13cd-482f-95b6-cba931708bf1" width="130" height="180">|<img src="https://github.com/Seolang/C-Yes_CS_practice_platform/assets/26866109/4faaddeb-e8fc-4b5f-80da-89308050bb15" width="130" height="180">|<img src="https://github.com/Seolang/C-Yes_CS_practice_platform/assets/26866109/03eeff3b-4775-400d-a76f-3a48ca7737c4" width="130" height="180">|<img src="https://github.com/Seolang/C-Yes_CS_practice_platform/assets/26866109/8ab648dd-ce59-47bb-aa24-9d419ea5f687" width="130" height="180">|<img src="https://github.com/Seolang/C-Yes_CS_practice_platform/assets/26866109/36129bce-e5c9-4de4-8bfb-244cbb1943be" width="130" height="180">|
-| Leader & Backend | Frontend | Frontend | Infra | Backend | Backend |
+|- Leader & Backend -|- Frontend -|- Frontend -|- Infra -|- Backend -|- Backend -|
 
 <br>
 <br>
