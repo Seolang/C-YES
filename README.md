@@ -55,14 +55,16 @@
 
 
 ## 실시간 퀴즈
-![ezgif.com-crop__6_](/uploads/ab502756b3186bcb97a14581c0a6c811/ezgif.com-crop__6_.gif)![ezgif.com-crop__7_](/uploads/d6adb725f5a8adf3562ffe8e069eff29/ezgif.com-crop__7_.gif)![ezgif.com-crop__8_](/uploads/2c5085bdb377a7fc5b70f87566a42851/ezgif.com-crop__8_.gif)
+![quiz_1](https://github.com/Seolang/C-Yes_CS_practice_platform/assets/26866109/7c32d726-d4db-4310-b0ff-ffb7414ee569)![quiz_2](https://github.com/Seolang/C-Yes_CS_practice_platform/assets/26866109/e1888a95-94f9-4a26-8d57-28c22ec6ace0)![quiz_3](https://github.com/Seolang/C-Yes_CS_practice_platform/assets/26866109/2188de1e-940c-47ee-b208-fa0ff71650a2)
  
 
 
 ## 문제 은행
-   ![ezgif.com-crop__3_](/uploads/68b674d94a18afdcf64859cb9d4dd765/ezgif.com-crop__3_.gif)![ezgif.com-crop__4_](/uploads/1436a18e4a2947ea6859a02e4e31305d/ezgif.com-crop__4_.gif)![ezgif.com-crop__5_](/uploads/98edb74f349bace53bd05903dad7c20f/ezgif.com-crop__5_.gif)
+![problem_1](https://github.com/Seolang/C-Yes_CS_practice_platform/assets/26866109/b072f507-5bb7-4900-9878-25c95f735cf6)![problem_2](https://github.com/Seolang/C-Yes_CS_practice_platform/assets/26866109/ea99d35f-84bd-473c-bf25-eb73f1d853cb)![probelm_3](https://github.com/Seolang/C-Yes_CS_practice_platform/assets/26866109/567c18b0-be06-4a05-8fcc-96f21218771e)
+
+   
 ## 그룹 퀴즈
-![ezgif.com-crop__13_](/uploads/dd7d2f0f6eab7c3b69e94961a88c9f23/ezgif.com-crop__13_.gif)![ezgif.com-crop__11_](/uploads/2137c704956c99829067602a524096aa/ezgif.com-crop__11_.gif)![ezgif.com-crop__12_](/uploads/55356bd5148472e838d343bb19363c69/ezgif.com-crop__12_.gif)
+![group_1](https://github.com/Seolang/C-Yes_CS_practice_platform/assets/26866109/98fcc12a-cdf1-4950-8d7b-cf21ab317bd3)![group_2](https://github.com/Seolang/C-Yes_CS_practice_platform/assets/26866109/232b27e9-a87e-4a91-9ba3-04e5b05f0c11)![group_3](https://github.com/Seolang/C-Yes_CS_practice_platform/assets/26866109/876ea994-3790-459f-8034-3884991647e5)
 
 
 
