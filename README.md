@@ -55,7 +55,7 @@
 
 
 ## 실시간 퀴즈
-![quiz_1](https://github.com/Seolang/C-Yes_CS_practice_platform/assets/26866109/7c32d726-d4db-4310-b0ff-ffb7414ee569)![quiz_2](https://github.com/Seolang/C-Yes_CS_practice_platform/assets/26866109/e1888a95-94f9-4a26-8d57-28c22ec6ace0)![quiz_3](https://github.com/Seolang/C-Yes_CS_practice_platform/assets/26866109/2188de1e-940c-47ee-b208-fa0ff71650a2)
+![quiz_1](https://github.com/Seolang/C-Yes_CS_practice_platform/assets/26866109/7c32d726-d4db-4310-b0ff-ffb7414ee569)<a>  </a>![quiz_2](https://github.com/Seolang/C-Yes_CS_practice_platform/assets/26866109/e1888a95-94f9-4a26-8d57-28c22ec6ace0)<a>  </a>![quiz_3](https://github.com/Seolang/C-Yes_CS_practice_platform/assets/26866109/2188de1e-940c-47ee-b208-fa0ff71650a2)
  
 
 
