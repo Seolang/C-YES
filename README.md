@@ -266,7 +266,7 @@ socket-server
 
 | 우승빈            | 배수빈 | 우수인   | 유혜빈  | 유태영  | 조준희  |
 | ----------------- | -------- | -------- | ------- | ------- | ------- |
-| <img src="/uploads/8ad736c6a77bab0a28256ad4e24c43f6/승빈.jpg" width="130" height="180">|<img src="/uploads/45a418b2a453fc594f9dbea09881a0e0/수빈.jpg" width="130" height="180">|<img src="/uploads/0f822718f1b8f228d7878bafcf47629b/수인.jpg" width="130" height="180">|<img src="/uploads/74c2481cd9cf916373a4a54d00956703/웃는_내사진.jpg" width="130" height="180">|<img src="/uploads/c2639bd2635da0f0a2823c3c789af50c/태영.jpg" width="130" height="180">|<img src="/uploads/8a50e78f63c67b73107bf6677bc9da2e/준희.jpg" width="130" height="180">|
+| <img src="https://github.com/Seolang/C-Yes_CS_practice_platform/assets/26866109/15db6494-7768-487f-a5fc-82e5f4d53427" width="130" height="180">|<img src="https://github.com/Seolang/C-Yes_CS_practice_platform/assets/26866109/2433a282-13cd-482f-95b6-cba931708bf1" width="130" height="180">|<img src="https://github.com/Seolang/C-Yes_CS_practice_platform/assets/26866109/4faaddeb-e8fc-4b5f-80da-89308050bb15" width="130" height="180">|<img src="https://github.com/Seolang/C-Yes_CS_practice_platform/assets/26866109/03eeff3b-4775-400d-a76f-3a48ca7737c4" width="130" height="180">|<img src="https://github.com/Seolang/C-Yes_CS_practice_platform/assets/26866109/8ab648dd-ce59-47bb-aa24-9d419ea5f687" width="130" height="180">|<img src="https://github.com/Seolang/C-Yes_CS_practice_platform/assets/26866109/36129bce-e5c9-4de4-8bfb-244cbb1943be" width="130" height="180">|
 | Leader & Backend | Frontend | Frontend | Infra | Backend | Backend |
 
 <br>
