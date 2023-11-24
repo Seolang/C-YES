@@ -59,8 +59,9 @@
    
 ![quiz_2](https://github.com/Seolang/C-Yes_CS_practice_platform/assets/26866109/e1888a95-94f9-4a26-8d57-28c22ec6ace0)
 
-<br/>
-![quiz_3](https://github.com/Seolang/C-Yes_CS_practice_platform/assets/26866109/2188de1e-940c-47ee-b208-fa0ff71650a2)
+<div/>
+ 
+ ![quiz_3](https://github.com/Seolang/C-Yes_CS_practice_platform/assets/26866109/2188de1e-940c-47ee-b208-fa0ff71650a2)
  
 <br/><br/>
 
@@ -69,7 +70,8 @@
    
 ![problem_2](https://github.com/Seolang/C-Yes_CS_practice_platform/assets/26866109/ea99d35f-84bd-473c-bf25-eb73f1d853cb)
    
-<br/>
+<div/>
+
 ![probelm_3](https://github.com/Seolang/C-Yes_CS_practice_platform/assets/26866109/567c18b0-be06-4a05-8fcc-96f21218771e)
 
 <br/><br/>
@@ -79,7 +81,8 @@
    
 ![group_2](https://github.com/Seolang/C-Yes_CS_practice_platform/assets/26866109/232b27e9-a87e-4a91-9ba3-04e5b05f0c11)
    
-<br/>
+<div/>
+
 ![group_3](https://github.com/Seolang/C-Yes_CS_practice_platform/assets/26866109/876ea994-3790-459f-8034-3884991647e5)
 
 
