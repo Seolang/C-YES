@@ -18,10 +18,6 @@ import org.springframework.stereotype.Service;
 @RequiredArgsConstructor
 @Service
 public class RedisSubscriber implements MessageListener {
-//    @Override
-//    public void onMessage(Message message, byte[] pattern) {
-//        log.info("받았다 기모띠");
-//    }
 
     private final ObjectMapper objectMapper;
     private final RedisTemplate<String, Object> redisTemplate;
