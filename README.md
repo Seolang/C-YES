@@ -65,41 +65,31 @@
 
 ## 실시간 퀴즈
 
-![quiz_1](https://github.com/Seolang/C-Yes_CS_practice_platform/assets/26866109/7c32d726-d4db-4310-b0ff-ffb7414ee569)
+<p align="center">
+<img src="https://github.com/Seolang/C-Yes_CS_practice_platform/assets/26866109/7c32d726-d4db-4310-b0ff-ffb7414ee569" width="32%">
+<img src="https://github.com/Seolang/C-Yes_CS_practice_platform/assets/26866109/e1888a95-94f9-4a26-8d57-28c22ec6ace0" width="32%">
+<img src="https://github.com/Seolang/C-Yes_CS_practice_platform/assets/26866109/2188de1e-940c-47ee-b208-fa0ff71650a2" width="32%">
+</p>
 
-![quiz_2](https://github.com/Seolang/C-Yes_CS_practice_platform/assets/26866109/e1888a95-94f9-4a26-8d57-28c22ec6ace0)
-
-<div/>
- 
- ![quiz_3](https://github.com/Seolang/C-Yes_CS_practice_platform/assets/26866109/2188de1e-940c-47ee-b208-fa0ff71650a2)
- 
 <br/><br/>
 
 ## 문제 은행
 
-![problem_1](https://github.com/Seolang/C-Yes_CS_practice_platform/assets/26866109/b072f507-5bb7-4900-9878-25c95f735cf6)
-
-![problem_2](https://github.com/Seolang/C-Yes_CS_practice_platform/assets/26866109/ea99d35f-84bd-473c-bf25-eb73f1d853cb)
-
-
-
-<div/>
-
-![probelm_3](https://github.com/Seolang/C-Yes_CS_practice_platform/assets/26866109/567c18b0-be06-4a05-8fcc-96f21218771e)
+<p align="center">
+<img src="https://github.com/Seolang/C-Yes_CS_practice_platform/assets/26866109/b072f507-5bb7-4900-9878-25c95f735cf6" width="32%">
+<img src="https://github.com/Seolang/C-Yes_CS_practice_platform/assets/26866109/ea99d35f-84bd-473c-bf25-eb73f1d853cb" width="32%">
+<img src="https://github.com/Seolang/C-Yes_CS_practice_platform/assets/26866109/567c18b0-be06-4a05-8fcc-96f21218771e" width="32%">
+</p>
 
 <br/><br/>
 
 ## 그룹 퀴즈
 
-![group_1](https://github.com/Seolang/C-Yes_CS_practice_platform/assets/26866109/98fcc12a-cdf1-4950-8d7b-cf21ab317bd3)
-
-![group_2](https://github.com/Seolang/C-Yes_CS_practice_platform/assets/26866109/232b27e9-a87e-4a91-9ba3-04e5b05f0c11)
-
-
-
-<div/>
-
-![group_3](https://github.com/Seolang/C-Yes_CS_practice_platform/assets/26866109/876ea994-3790-459f-8034-3884991647e5)
+<p align="center">
+<img src="https://github.com/Seolang/C-Yes_CS_practice_platform/assets/26866109/98fcc12a-cdf1-4950-8d7b-cf21ab317bd3" width="32%">
+<img src="https://github.com/Seolang/C-Yes_CS_practice_platform/assets/26866109/232b27e9-a87e-4a91-9ba3-04e5b05f0c11" width="32%">
+<img src="https://github.com/Seolang/C-Yes_CS_practice_platform/assets/26866109/876ea994-3790-459f-8034-3884991647e5" width="32%">
+</p>
 
 # 🛠 주요 기술
 
