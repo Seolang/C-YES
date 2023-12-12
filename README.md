@@ -99,6 +99,18 @@
 
 <br>
 
+**협업 툴**
+<br>
+
+<img src="https://img.shields.io/badge/git-F05032?style=for-the-badge&logo=git&logoColor=white">&nbsp;<img src="https://img.shields.io/badge/jira-0052CC?style=for-the-badge&logo=jirasoftware&logoColor=white">&nbsp;<img src="https://img.shields.io/badge/mattermost-0058CC?style=for-the-badge&logo=mattermost&logoColor=white">&nbsp;<img src="https://img.shields.io/badge/notion-000000?style=for-the-badge&logo=notion&logoColor=white">&nbsp;<img src="https://img.shields.io/badge/figma-EA4335?style=for-the-badge&logo=figma&logoColor=white">&nbsp;
+
+-   형상 관리 : Git
+-   이슈 관리 : Jira
+-   커뮤니케이션 : Mattermost, Notion
+-   디자인 : Figma
+
+<br>
+
 # 💻 주요 기능
 
 ### 0️⃣ 실시간 퀴즈 서비스
@@ -163,17 +175,9 @@
 
 
 
-**협업 툴**
-<br>
 
-<img src="https://img.shields.io/badge/git-F05032?style=for-the-badge&logo=git&logoColor=white">&nbsp;<img src="https://img.shields.io/badge/jira-0052CC?style=for-the-badge&logo=jirasoftware&logoColor=white">&nbsp;<img src="https://img.shields.io/badge/mattermost-0058CC?style=for-the-badge&logo=mattermost&logoColor=white">&nbsp;<img src="https://img.shields.io/badge/notion-000000?style=for-the-badge&logo=notion&logoColor=white">&nbsp;<img src="https://img.shields.io/badge/figma-EA4335?style=for-the-badge&logo=figma&logoColor=white">&nbsp;
 
--   형상 관리 : Git
--   이슈 관리 : Jira
--   커뮤니케이션 : Mattermost, Notion
--   디자인 : Figma
 
-<br>
 
 # 📋 프로젝트 산출물
 
