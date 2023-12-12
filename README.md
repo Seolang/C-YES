@@ -7,9 +7,9 @@
 -   [프로젝트 진행 기간](#-프로젝트-진행-기간)
 -   [개요](#-개요)
 -   [프로젝트 구조](#-프로젝트-구조)
+-   [주요 기술](#-주요-기술)
 -   [주요 기능](#-주요-기능)
 -   [서비스 화면](#-서비스-화면)
--   [주요 기술](#-주요-기술)
 -   [프로젝트 파일 구조](#-프로젝트-파일-구조)
 -   [프로젝트 산출물](#-프로젝트-산출물)
 -   [팀원 역할 분배](#-팀원-역할-분배)
@@ -34,6 +34,58 @@
 
 # 📋 프로젝트 구조
 ![architecture](https://github.com/Seolang/C-YES/assets/26866109/57a5f946-a414-469b-8020-3e03ef2ebb17)
+
+<br>
+
+# 🛠 주요 기술
+
+**Backend**
+<br>
+
+<img src="https://img.shields.io/badge/java-007396?style=for-the-badge&logo=java&logoColor=white">&nbsp;<img src="https://img.shields.io/badge/springboot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white">&nbsp;<img src="https://img.shields.io/badge/springsecurity-6DB33F?style=for-the-badge&logo=springsecurity&logoColor=white">&nbsp;<img src="https://img.shields.io/badge/junit5-25A162?style=for-the-badge&logo=junit5&logoColor=white">&nbsp;<img src="https://img.shields.io/badge/gradle-02303A?style=for-the-badge&logo=gradle&logoColor=white">&nbsp;<img src="https://img.shields.io/badge/fastapi-009688?style=for-the-badge&logo=fastapi&logoColor=white">&nbsp;<img src="https://img.shields.io/badge/mysql-4479A1?style=for-the-badge&logo=mysql&logoColor=white">
+
+-   Java : Oracle OpenJDK 11
+-   SpringBoot 2.7.17
+-   Spring Data Jpa
+-   queryDSL 5.0.0
+-   Junit 4.13.1
+-   Gradle 7.6.1
+-   MySQL 서버 : latest
+-   MongoDB 4.4.25
+-   Redis 7.2.3
+
+<br>
+
+**FrontEnd**
+<br>
+
+<img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black">&nbsp;<img src="https://img.shields.io/badge/Redux-764ABC?style=for-the-badge&logo=redux&logoColor=white">&nbsp;<img src="https://img.shields.io/badge/styled components-DB7093?style=for-the-badge&logo=styledcomponents&logoColor=white">&nbsp;<img src="https://img.shields.io/badge/axios-5A29E4?style=for-the-badge&logo=axios&logoColor=white">&nbsp;<img src="https://img.shields.io/badge/node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white">&nbsp;<img src="https://img.shields.io/badge/typescript-3178C6?style=for-the-badge&logo=typescript&logoColor=white">&nbsp;
+
+-   React 18.2.0
+-   Node.js 16.16.0
+-   TypeScript 5.0.4
+-   Redux 8.0.5
+-   Redux-toolkit 1.9.4
+-   Redux-persist 6.0.0
+-   Styled-component 5.3.9
+-   Axios 1.3.5
+
+<br>
+
+**CI/CD**
+<br>
+
+<img src="https://img.shields.io/badge/aws ec2-FF9900?style=for-the-badge&logo=amazonec2&logoColor=white">&nbsp;<img src="https://img.shields.io/badge/ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white">&nbsp;<img src="https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=Jenkins&logoColor=white">&nbsp;<img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=Docker&logoColor=white">&nbsp;<img src="https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white">&nbsp;<img src="https://img.shields.io/badge/openssl-721412?style=for-the-badge&logo=openssl&logoColor=white">&nbsp;<img src="https://img.shields.io/badge/grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white">&nbsp;<img src="https://img.shields.io/badge/prometheus-E6522C?style=for-the-badge&logo=prometheus&logoColor=white">&nbsp;
+
+-   AWS EC2
+-   Ubuntu 20.04 LTS
+-   Jenkins 2.414.3
+-   Docker Engine 24.0.5
+-   Nginx 1.18.0
+-   SSL
+-   Grafana latest
+-   Prometheus 2.44.0
+-   netdata
 
 <br>
 
@@ -99,57 +151,7 @@
 <img src="https://github.com/Seolang/C-Yes_CS_practice_platform/assets/26866109/876ea994-3790-459f-8034-3884991647e5" width="32%">
 </p>
 
-# 🛠 주요 기술
 
-**Backend**
-<br>
-
-<img src="https://img.shields.io/badge/java-007396?style=for-the-badge&logo=java&logoColor=white">&nbsp;<img src="https://img.shields.io/badge/springboot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white">&nbsp;<img src="https://img.shields.io/badge/springsecurity-6DB33F?style=for-the-badge&logo=springsecurity&logoColor=white">&nbsp;<img src="https://img.shields.io/badge/junit5-25A162?style=for-the-badge&logo=junit5&logoColor=white">&nbsp;<img src="https://img.shields.io/badge/gradle-02303A?style=for-the-badge&logo=gradle&logoColor=white">&nbsp;<img src="https://img.shields.io/badge/fastapi-009688?style=for-the-badge&logo=fastapi&logoColor=white">&nbsp;<img src="https://img.shields.io/badge/mysql-4479A1?style=for-the-badge&logo=mysql&logoColor=white">
-
--   Java : Oracle OpenJDK 11
--   SpringBoot 2.7.17
--   Spring Data Jpa
--   queryDSL 5.0.0
--   Junit 4.13.1
--   Gradle 7.6.1
--   MySQL 서버 : latest
--   MongoDB 4.4.25
--   Redis 7.2.3
-
-<br>
-
-**FrontEnd**
-<br>
-
-<img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black">&nbsp;<img src="https://img.shields.io/badge/Redux-764ABC?style=for-the-badge&logo=redux&logoColor=white">&nbsp;<img src="https://img.shields.io/badge/styled components-DB7093?style=for-the-badge&logo=styledcomponents&logoColor=white">&nbsp;<img src="https://img.shields.io/badge/axios-5A29E4?style=for-the-badge&logo=axios&logoColor=white">&nbsp;<img src="https://img.shields.io/badge/node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white">&nbsp;<img src="https://img.shields.io/badge/typescript-3178C6?style=for-the-badge&logo=typescript&logoColor=white">&nbsp;
-
--   React 18.2.0
--   Node.js 16.16.0
--   TypeScript 5.0.4
--   Redux 8.0.5
--   Redux-toolkit 1.9.4
--   Redux-persist 6.0.0
--   Styled-component 5.3.9
--   Axios 1.3.5
-
-<br>
-
-**CI/CD**
-<br>
-
-<img src="https://img.shields.io/badge/aws ec2-FF9900?style=for-the-badge&logo=amazonec2&logoColor=white">&nbsp;<img src="https://img.shields.io/badge/ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white">&nbsp;<img src="https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=Jenkins&logoColor=white">&nbsp;<img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=Docker&logoColor=white">&nbsp;<img src="https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white">&nbsp;<img src="https://img.shields.io/badge/openssl-721412?style=for-the-badge&logo=openssl&logoColor=white">&nbsp;<img src="https://img.shields.io/badge/grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white">&nbsp;<img src="https://img.shields.io/badge/prometheus-E6522C?style=for-the-badge&logo=prometheus&logoColor=white">&nbsp;
-
--   AWS EC2
--   Ubuntu 20.04 LTS
--   Jenkins 2.414.3
--   Docker Engine 24.0.5
--   Nginx 1.18.0
--   SSL
--   Grafana latest
--   Prometheus 2.44.0
--   netdata
-
-<br>
 
 **협업 툴**
 <br>
