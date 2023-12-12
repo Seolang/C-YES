@@ -1,4 +1,4 @@
-# 🏆 C-YES - 실시간 CS 퀴즈 서비스
+# 🏆 C-YES! - 실시간 CS 퀴즈 서비스
 
 ![Imgur](./exec/images/title.gif)
 
