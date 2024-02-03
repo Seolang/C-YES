@@ -9,8 +9,7 @@
 -   [개요](#-개요)
 -   [프로젝트 구조](#-프로젝트-구조)
 -   [주요 기술](#-주요-기술)
--   [주요 기능](#-주요-기능)
--   [서비스 화면](#-서비스-화면)
+-   [주요 기능 및 서비스](#-주요-기능-및-서비스스)
 -   [프로젝트 파일 구조](#-프로젝트-파일-구조)
 -   [프로젝트 산출물](#-프로젝트-산출물)
 
@@ -111,7 +110,7 @@
 
 <br>
 
-# 💻 주요 기능
+# 💻 주요 기능 및 서비스스
 
 ### 0️⃣ 실시간 퀴즈 서비스
 
@@ -123,6 +122,12 @@
 
 #### - 모든 문제가 끝나고 나면 3등까지 순위표가 나타나고 퀴즈는 끝이 난다.
 
+<p align="center">
+<img src="https://github.com/Seolang/C-Yes_CS_practice_platform/assets/26866109/7c32d726-d4db-4310-b0ff-ffb7414ee569" width="32%">
+<img src="https://github.com/Seolang/C-Yes_CS_practice_platform/assets/26866109/e1888a95-94f9-4a26-8d57-28c22ec6ace0" width="32%">
+<img src="https://github.com/Seolang/C-Yes_CS_practice_platform/assets/26866109/2188de1e-940c-47ee-b208-fa0ff71650a2" width="32%">
+</p>
+
 <br>
 
 ### 1️⃣ 문제은행 서비스
@@ -133,6 +138,12 @@
 
 #### - 문제 카테고리는 데이터베이스, 자료구조, 디자인 패턴, 컴퓨터구조, 알고리즘, 네트워크 운영체제가 있다.
 
+<p align="center">
+<img src="https://github.com/Seolang/C-Yes_CS_practice_platform/assets/26866109/b072f507-5bb7-4900-9878-25c95f735cf6" width="32%">
+<img src="https://github.com/Seolang/C-Yes_CS_practice_platform/assets/26866109/ea99d35f-84bd-473c-bf25-eb73f1d853cb" width="32%">
+<img src="https://github.com/Seolang/C-Yes_CS_practice_platform/assets/26866109/567c18b0-be06-4a05-8fcc-96f21218771e" width="32%">
+</p>
+
 <br>
 
 ### 2️⃣ 그룹퀴즈 서비스
@@ -141,43 +152,13 @@
 
 #### - 또한, 퀴즈방을 자유롭게 열어서 검색을 통해 퀴즈방에 입장할 수 있다.
 
-<br>
-
-# 🖼 서비스 화면
-
-## 실시간 퀴즈
-
-<p align="center">
-<img src="https://github.com/Seolang/C-Yes_CS_practice_platform/assets/26866109/7c32d726-d4db-4310-b0ff-ffb7414ee569" width="32%">
-<img src="https://github.com/Seolang/C-Yes_CS_practice_platform/assets/26866109/e1888a95-94f9-4a26-8d57-28c22ec6ace0" width="32%">
-<img src="https://github.com/Seolang/C-Yes_CS_practice_platform/assets/26866109/2188de1e-940c-47ee-b208-fa0ff71650a2" width="32%">
-</p>
-
-<br/><br/>
-
-## 문제 은행
-
-<p align="center">
-<img src="https://github.com/Seolang/C-Yes_CS_practice_platform/assets/26866109/b072f507-5bb7-4900-9878-25c95f735cf6" width="32%">
-<img src="https://github.com/Seolang/C-Yes_CS_practice_platform/assets/26866109/ea99d35f-84bd-473c-bf25-eb73f1d853cb" width="32%">
-<img src="https://github.com/Seolang/C-Yes_CS_practice_platform/assets/26866109/567c18b0-be06-4a05-8fcc-96f21218771e" width="32%">
-</p>
-
-<br/><br/>
-
-## 그룹 퀴즈
-
 <p align="center">
 <img src="https://github.com/Seolang/C-Yes_CS_practice_platform/assets/26866109/98fcc12a-cdf1-4950-8d7b-cf21ab317bd3" width="32%">
 <img src="https://github.com/Seolang/C-Yes_CS_practice_platform/assets/26866109/232b27e9-a87e-4a91-9ba3-04e5b05f0c11" width="32%">
 <img src="https://github.com/Seolang/C-Yes_CS_practice_platform/assets/26866109/876ea994-3790-459f-8034-3884991647e5" width="32%">
 </p>
 
-
-
-
-
-
+<br>
 
 # 📋 프로젝트 산출물
 
