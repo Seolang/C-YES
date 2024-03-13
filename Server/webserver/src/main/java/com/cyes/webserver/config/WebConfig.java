@@ -28,24 +28,4 @@ public class WebConfig implements WebMvcConfigurer {
                 .addResourceLocations("classpath:/META-INF/resources/webjars/swagger-ui/3.52.5/");
     }
 
-
-//    @Override
-//    public void addInterceptors(InterceptorRegistry interceptorRegistry) {
-//
-//        interceptorRegistry.addInterceptor(authInterceptor)
-//                .addPathPatterns("/**")
-//                .excludePathPatterns(
-//                        "/api/oauth/login/**",
-//                        "/api/oauth/regen",
-//                        "/api/sessions/**",
-//                        "/gameroom/**",
-//                        "/chatroom/**",
-//                        "/gwh-websocket/**",
-//                        "/v3/api-docs/**",  // Swagger JSON 경로
-//                        "/swagger-resources/**",  // Swagger 리소스 경로
-//                        "/swagger-ui/**",  // Swagger UI 경로,
-//                        "/api/problem/**"
-//
-//                );
-//    }
 }

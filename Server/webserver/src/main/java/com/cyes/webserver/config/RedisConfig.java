@@ -52,26 +52,15 @@ public class RedisConfig {
     (
             // java reflection이 필요한 매개변수를 주입
             RedisConnectionFactory connectionFactory
-//          , MessageListenerAdapter listenerAdapter
             , ChannelTopic channelTopic
     ) {
         RedisMessageListenerContainer container = new RedisMessageListenerContainer();
 
         container.setConnectionFactory(connectionFactory);
-        // 채널 리스너 (소켓 메세지)
-//        container.addMessageListener(listenerAdapter, channelTopic);
 
         return container;
     }
 
-//    /**
-//     * MessageListenerAdapter에서는 RedisMessageListenerContainer로부터 메시지를 dispatch 받고,
-//     * 실제 메시지를 처리하는 비즈니스 로직이 담긴 Subscriber Bean을 추가해준다.
-//     */
-//    @Bean
-//    public MessageListenerAdapter listenerAdapter(RedisSubscriber subscriber) {
-//        return new MessageListenerAdapter(subscriber, "onMessage");
-//    }
 
     /**
      * Redis서버와 상호작용하기 위한 RedisTemplate 관련 설정을 해준다.
